@@ -18,7 +18,7 @@ I'm Product Manager and Founder of HipStaff Solutions from Cebu, Philippines, wo
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: Leading teams to develop awesome web apps
-- 🌱 I'm currently learning: NextJS, Google Project Management Certificartion
+- 🌱 I'm currently learning: NextJS, Google Project Management Certification
 
  **<h3 align="left">Skills</h3>**
 
