@@ -1,4 +1,8 @@
-![👋 Hi, my name is Cyrus Espiritu](https://qikz63qr5s.ufs.sh/f/9tdlGoDFWSOr5zKz8R1d9WiyUzFQp5lfVuGbOI24KsqDvLPc)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://qikz63qr5s.ufs.sh/f/9tdlGoDFWSOrl8YSLoKPkpiQGuURtrTvLHN65syqbBX2OCdx">
+  <source media="(prefers-color-scheme: light)" srcset="https://qikz63qr5s.ufs.sh/f/9tdlGoDFWSOr1eoywpbIDht9xfmcLSlnbd1QTYO8RyZj4e3a">
+  <img alt="Banner" src="https://qikz63qr5s.ufs.sh/f/9tdlGoDFWSOr1eoywpbIDht9xfmcLSlnbd1QTYO8RyZj4e3a">
+</picture>
 
 # 👋 Hi, my name is Cyrus Espiritu
 
